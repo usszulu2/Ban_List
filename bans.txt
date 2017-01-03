@@ -1966,7 +1966,6 @@ a93e1002b9dd249edb12f9f4330c76d4 -1 Trolling
 e712589fbbbff0e834cafdeffc7967e7 -1 Team Killing
 0c2c92a27f5577596f202e2a555c8efb -1 Caught for Glitch Abuse. Contact A3Armory.com
 9d72aefa78fe6a7de2ca8e3c5690cafa -1 Caught for Glitch Abuse. Contact A3Armory.com
-8e21928a9b4847f6eb29cdedc3fe56e7 -1 Trolling
 41a11f974c87e4bb2cf36bbec553e594 -1 Team Killing
 bf5505b0720105d025b692e06f7314cf -1 Caught for GameHack. Contact A3Armory.com
 973602dfc1d4f2541329d419988ab532 -1 Trolling
