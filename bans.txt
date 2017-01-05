@@ -1992,3 +1992,6 @@ a221e6918d2b8c40ff585ba17341b4c2 -1 Caught for GameHack. Contact A3Armory.com
 4c5b6275862185308012d9cf3b0b8081 -1 Caught for GameHack. Contact A3Armory.com
 a47eb3b27a0581c3514bba76af37644f -1 Caught for GameHack. Contact A3Armory.com
 341016de168c8050bc290e62dd309333 -1 Spam
+ea366ec387cf1726fa74f9b7c8b59bd1 -1 Caught for GameHack. Contact A3Armory.com
+d2cc653e03ca0d5675dd71afbf145a56 -1 Caught for GameHack. Contact A3Armory.com
+0dd890402b3abb7c1b031fb954895097 -1 Caught for GameHack. Contact A3Armory.com
