@@ -1980,7 +1980,6 @@ af697b94b9511e500ebbec773e001a23 -1 Trolling
 dda5d428fbbf85ad583a378bfd9e9a8c -1 Caught for GameHack. Contact A3Armory.com
 ac1c27873bad8763a7cb2c1223f3f0f2 -1 Caught for GameHack. Contact A3Armory.com
 811a7cd6ee45f2319f5b613810a85c55 -1 Caught for GameHack. Contact A3Armory.com
-c86d92dbe47900fbdbbd9dbdb93b3eaa -1 Caught for Glitch Abuse. Contact A3Armory.com
 0f9128d4a70a866580766c02e08767c8 -1 Caught for GameHack. Contact A3Armory.com
 180e5fbbabd407e9e8b8bc9a57e0b8bb -1 Caught for GameHack. Contact A3Armory.com
 3fe9900004a658df55fa1e6035c2d5c1 -1 Caught for GameHack. Contact A3Armory.com
