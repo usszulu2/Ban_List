@@ -1996,3 +1996,4 @@ d2cc653e03ca0d5675dd71afbf145a56 -1 Caught for GameHack. Contact A3Armory.com
 0dd890402b3abb7c1b031fb954895097 -1 Caught for GameHack. Contact A3Armory.com
 a646420ee317aa88e9af2a083b1b9d44 -1 Trolling
 01ca6f58d682751c96af0c36c4714481 -1 Team Killing
+f74bbc13e8d8f418438a90476e4e61f0 -1 Spamming @admin with obscenities
